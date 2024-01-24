@@ -10,4 +10,5 @@
 **●项目经历-实验室** $\color{red}{AIGC:2D图像生成、CV:图像理解}$  <br>
 &ensp;&ensp;基于深度学习的甲状腺超声图像中结节的自动评级 ：	https://docs.qq.com/slide/DR1hScUVzblRnRnJK <br>
 **●项目经历-实验室** $\color{red}{CV:图像理解}$ <br>
-&ensp;&ensp;掌上智能围棋识别系统研发：https://docs.qq.com/pdf/DR1BOUXJYRWVwSWVH
+&ensp;&ensp;掌上智能围棋识别系统研发：https://docs.qq.com/slide/DR1pQYmFVQ0lXWGF0
+
