@@ -14,7 +14,7 @@
 - **摩尔线程(实习)**
   - 神经辐射场在 3D智能沙盘渲染系统中的应用研究：https://docs.qq.com/pdf/DR2hQcnlhbkdhaGpS
 
-- **腾讯(实习) **
+- **腾讯(实习)**
   - 图形研发汇报PPT：https://docs.qq.com/document/DR0RJaERyc0VRWnRn
 
 ## 项目经历
