@@ -5,7 +5,7 @@
 - **人工智能与数字经济广东省实验室**
   - 基于多模态的 3D 交互式数字人: https://docs.qq.com/slide/DRXFsSHZSeWhSa09R
     - 商业成果：https://docs.qq.com/pdf/DRWFaanhQZm9FZGJw
-    - 开源代码：https://github.com/feima09/GMTalker?tab=readme-ov-file
+    - 开源代码：https://github.com/feima09/GMTalker?tab=readme-ov-file （1.1K Star)
   - 光明区政务大模型系统: https://docs.qq.com/slide/DRVNSS0FQREpxY2R1
 
 - **腾讯**
